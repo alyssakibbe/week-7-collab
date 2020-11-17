@@ -12,3 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 hi Roshni!
 
 hi Alyssa! Hope your week is going well so far :)
+
+It's going swell! almost half over ;) 
+
